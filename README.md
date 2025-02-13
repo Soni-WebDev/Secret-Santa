@@ -11,8 +11,8 @@ This application automates the process of assigning secret children to employees
 
 - Clone the repository:
 
-git clone <repo-url>
-cd <repo-directory>
+git clone https://github.com/Soni-WebDev/Secret-Santa.git
+cd Secret-Santa
 
 - Install dependencies:
 
@@ -46,5 +46,9 @@ Benjamin Collins, benjamin.collins@acme.com, Matthew King, matthew.king.jr@acme.
 - The generated results can be downloaded as a CSV file.
 
 - If a previous year's data is uploaded, the application intelligently avoids assigning the same Secret Santa pair as before.
+
+## Download CSV files 
+- Attached Both Sample employees and previous_year_secret_child_data.
+- Download from download directory
 
 Happy Gifting! 🎁
